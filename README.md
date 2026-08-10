@@ -104,6 +104,8 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * **Python for Data Science** – NPTEL (2024)
 * **Statistics for Data Science** – Great Learning (2024)
 * **SQL and Relational Database** – Cognitive Class (IBM) (2023)
+* **Data Visualization with Python** - Cognitive Class (IBM) (2023)
+* **Machine Learning with Python** - Cognitive Class (IBM) (2023)
 
 ---
 

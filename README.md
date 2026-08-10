@@ -174,6 +174,6 @@ I’m actively interested in opportunities related to **Data Analytics, Business
 
 ⭐️ From **Madhubala69** | **⭐ Data • Analytics • AI • Intelligent Solutions**
 
-**Building impactful analytics and AI projects, one insight at a time. 🚀**
+**📊 Building impactful analytics and AI projects, one insight at a time. 🚀**
 
 </div>

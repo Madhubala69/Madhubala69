@@ -10,8 +10,8 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 * 📊 Proficient in **Python, SQL, Tableau, Excel, TensorFlow, Keras, and Scikit-learn**
 * 📈 Experienced in **Exploratory Data Analysis (EDA), Predictive Analytics, Statistical Analysis, and Dashboard Development**
-* 🤖 Interested in **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI applications**
-* 🩺 Passionate about applying **AI and analytics to healthcare, retail, and intelligent automation systems**
+* 🤖 Interested in **Machine Learning, Deep Learning and Natural Language Processing**
+* 🩺 Passionate about applying **AI and analytics to healthcare and retail**
 * 📍 Chennai, Tamil Nadu, India
 * 📧 **[madhu69.vel@gmail.com](mailto:madhu69.vel@gmail.com)**
 

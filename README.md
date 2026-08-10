@@ -1,4 +1,4 @@
-# Hi!, I'm V. Madhubala 👋
+# Hi!, I'm Madhubala 👋
 
 **📊 Data Analytics • 🤖 AI Applications • 📈 Machine Learning**
 

@@ -44,7 +44,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 ### 🤖 Machine Learning & AI
 
-**Scikit-learn | TensorFlow | Keras | Transfer Learning | Computer Vision**
+**Scikit-learn | TensorFlow | Keras | Transfer Learning**
 
 ### 📚 Analytical Expertise
 

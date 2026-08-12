@@ -106,6 +106,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * **SQL and Relational Database** – Cognitive Class (IBM) (2023)
 * **Data Visualization with Python** - Cognitive Class (IBM) (2023)
 * **Machine Learning with Python** - Cognitive Class (IBM) (2023)
+* **Excel for Beginners** - Great Learning (2023)
 
 ---
 

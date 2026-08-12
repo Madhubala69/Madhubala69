@@ -165,6 +165,10 @@ I’m actively interested in opportunities related to **Data Analytics, Business
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
+  <a href="https://madhubala69.github.io/Madhubala.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
   <a href="mailto:madhu69.vel@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

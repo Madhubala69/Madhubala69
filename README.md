@@ -1,6 +1,6 @@
 # Hi!, I'm Madhubala 👋
 
-**📊 Data Analytics • 🤖 AI Applications • 📈 Machine Learning**
+**📊 Data Analytics • 📈 Machine Learning • 🤖 AI Applications**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="_blank">

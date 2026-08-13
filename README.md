@@ -50,7 +50,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 ### 💻 Programming Languages
 
-**Python | SQL**
+**Python | SQL | HTML and CSS**
 
 ### 📊 Data Analytics & Visualization
 

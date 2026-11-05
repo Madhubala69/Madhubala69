@@ -76,10 +76,9 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 **Technologies:** Python, TensorFlow, Keras, Transfer Learning
 
-* Developed a **multi-class medical image classification system** for detecting knee osteoarthritis severity from X-ray images
-* Implemented **image preprocessing, normalization, augmentation, and transfer learning techniques** to enhance model performance
-* Evaluated the model using **accuracy, precision, recall, F1-score, and validation analysis** to ensure reliable classification results
-* Designed the solution as a practical **Healthcare AI application for intelligent diagnostic support**
+* Analyzed knee X-rays across 5 KL grades (0–4) using **OpenCV and Pandas**; performed **image preprocessing and augmentation**. 
+* Trained and compared **ResNet50, EfficientNetB3 and DenseNet121, achieving 69.32% test accuracy with ResNet50**. 
+* Developed a **Streamlit app for new X-ray predictions, displaying KL grades, confidence scores, class probabilities and Grad-CAM heatmaps**. 
 
 **Professional Value:** Demonstrates expertise in **Deep Learning, Computer Vision, Medical Imaging, and AI-based healthcare analytics**.
 
@@ -89,10 +88,9 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 **Technologies:** Tableau, Business Analytics, Data Visualization
 
-* Built an **interactive Tableau dashboard** to analyze product sales, pricing, discounts, customer ratings, and category performance
-* Conducted **business-oriented data analysis** to identify customer purchasing behavior and product performance trends
-* Designed **KPI-driven visualizations and comparative dashboards** to support data-driven business decisions
-* Collaborated within a **five-member analytics team** to deliver a comprehensive retail analytics solution
+* Cleaned and analyzed **20K+ product records using Python and Pandas**. 
+* Built an **interactive Tableau dashboard**; identified **Clothing (6,341) as the largest category and 40.5% average discount**.
+* **Recommended targeted promotions and improved Flipkart Advantage coverage (3.92% of listings)**.
 
 **Professional Value:** Demonstrates strong capabilities in **Business Intelligence, Dashboard Design, KPI Reporting, and Customer Insight Analytics**.
 
@@ -107,6 +105,18 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * Added **text-to-speech functionality** and designed an **interactive Gradio-based interface** for real-time AI interaction
 
 **Professional Value:** Demonstrates practical integration of **NLP, Image Captioning, Generative AI concepts, and user-centric AI application development**.
+
+---
+
+### 🫀 Heart Attack Prediction using Deep Learning
+
+**Technologies:** Python, Gradio, Scikit-learn, XGBoost
+
+* Analyzed **1,319 patient records using Pandas, NumPy, Matplotlib and Seaborn**; performed **EDA and feature engineering**. 
+* Compared **7 ML models; achieved 98.1% accuracy, 98.8% recall and 98.5% F1-score with XGBoost**. 
+* Identified **key risk factors (Troponin, CK-MB)** and built a **Gradio interface for patient risk prediction using 3 ML models**.
+
+**Professional Value:** Demonstrates practical application of **Machine Learning, predictive analytics, healthcare AI, and data-driven risk assessment for early heart attack risk prediction.**.
 
 ---
 

@@ -116,7 +116,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * Compared **7 ML models; achieved 98.1% accuracy, 98.8% recall and 98.5% F1-score with XGBoost**. 
 * Identified **key risk factors (Troponin, CK-MB)** and built a **Gradio interface for patient risk prediction using 3 ML models**.
 
-**Professional Value:** Demonstrates practical application of **Machine Learning, predictive analytics, healthcare AI, and data-driven risk assessment for early heart attack risk prediction.**.
+**Professional Value:** Demonstrates practical integration of **Healthcare Analytics, Machine Learning, ensemble modelling, clinical feature analysis, and Gradio-based application development for cardiovascular risk prediction**.
 
 ---
 

@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
-  <a href="mailto:madhu69.vel@gmail.com">
+  <a href="mailto:madhu02bal@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

@@ -3,20 +3,20 @@
 **📊 Data Analytics • 📈 Machine Learning • 🤖 AI Applications**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\\\\\&logo=linkedin\\\\\\\&logoColor=white"/>
   </a>
 
-  <a href="https://madhubala69.github.io/Madhubala.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://madhubala69.github.io/Madhubala.github.io/" target="\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\\\\\\\&logo=google-chrome\\\\\\\&logoColor=white"/>
   </a>
 
-  <a href="mailto:madhu02bal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:madhu02bal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\\\\\&logo=gmail\\\\\\\&logoColor=white"/>
   </a>
 </p>
 
----
+\---
 
 ## 👤 About Me
 
@@ -27,15 +27,15 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * 🤖 Interested in **Machine Learning, Deep Learning and Natural Language Processing**
 * 🩺 Passionate about applying **AI and analytics to healthcare and retail**
 * 📍 Chennai, Tamil Nadu, India
-* 📧 **[madhu69.vel@gmail.com](mailto:madhu02bal@gmail.com)**
+* 📧 [**madhu02bal@gmail.com**](mailto:madhu02bal@gmail.com)
 
 ✔ Committed to building **scalable, insight-driven, and user-focused analytical solutions** that create measurable value.
 
----
+\---
 
 ## 💼 Professional Experience
 
-### 📊 Data Science Intern | **L&T Construction**
+### 📊 Data Science Intern | **L\&T Construction**
 
 **Apr 2022 – Jun 2022 | Chennai, India**
 
@@ -44,7 +44,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * Developed analytical workflows to identify **patterns, trends, and operational insights** from structured data
 * Supported predictive analytics tasks by preparing data for **model development and reporting activities**
 
----
+\---
 
 ## 🛠️ Technical Skills
 
@@ -52,11 +52,11 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 **Python | SQL | HTML and CSS**
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics \& Visualization
 
 **Tableau | Excel | Matplotlib | Data Visualization | KPI Reporting**
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning \& AI
 
 **Scikit-learn | TensorFlow | Keras | Transfer Learning**
 
@@ -64,11 +64,11 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 **Exploratory Data Analysis | Statistical Analysis | Predictive Modeling | Data Preprocessing | Feature Engineering**
 
-### 🧰 Tools & Platforms
+### 🧰 Tools \& Platforms
 
 **Jupyter Notebook | Google Colab | GitHub**
 
----
+\---
 
 ## 🚀 Featured Projects
 
@@ -76,27 +76,27 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 **Technologies:** Python, TensorFlow, Keras, Transfer Learning
 
-* Analyzed knee X-rays across 5 KL grades (0–4) using **OpenCV and Pandas**; performed **image preprocessing and augmentation**. 
-* Trained and compared **ResNet50, EfficientNetB3 and DenseNet121, achieving 69.32% test accuracy with ResNet50**. 
-* Developed a **Streamlit app for new X-ray predictions, displaying KL grades, confidence scores, class probabilities and Grad-CAM heatmaps**. 
+* Analyzed knee X-rays across 5 KL grades (0–4) using **OpenCV and Pandas**; performed **image preprocessing and augmentation**.
+* Trained and compared **ResNet50, EfficientNetB3 and DenseNet121, achieving 69.32% test accuracy with ResNet50**.
+* Developed a **Streamlit app for new X-ray predictions, displaying KL grades, confidence scores, class probabilities and Grad-CAM heatmaps**.
 
 **Professional Value:** Demonstrates expertise in **Deep Learning, Computer Vision, Medical Imaging, and AI-based healthcare analytics**.
 
----
+\---
 
-### 🛒 Flipkart Sales & Customer Insights Dashboard
+### 🛒 Flipkart Sales \& Customer Insights Dashboard
 
 **Technologies:** Tableau, Business Analytics, Data Visualization
 
-* Cleaned and analyzed **20K+ product records using Python and Pandas**. 
+* Cleaned and analyzed **20K+ product records using Python and Pandas**.
 * Built an **interactive Tableau dashboard**; identified **Clothing (6,341) as the largest category and 40.5% average discount**.
 * **Recommended targeted promotions and improved Flipkart Advantage coverage (3.92% of listings)**.
 
 **Professional Value:** Demonstrates strong capabilities in **Business Intelligence, Dashboard Design, KPI Reporting, and Customer Insight Analytics**.
 
----
+\---
 
-### 🤖 AI Quote & Image Caption Generator
+### 🤖 AI Quote \& Image Caption Generator
 
 **Technologies:** Python, NLP, Image Captioning, Gradio, Text-to-Speech
 
@@ -106,21 +106,21 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 
 **Professional Value:** Demonstrates practical integration of **NLP, Image Captioning, Generative AI concepts, and user-centric AI application development**.
 
----
+\---
 
 ### 🫀 Heart Attack Prediction using Deep Learning
 
 **Technologies:** Python, Gradio, Scikit-learn, XGBoost
 
-* Analyzed **1,319 patient records using Pandas, NumPy, Matplotlib and Seaborn**; performed **EDA and feature engineering**. 
-* Compared **7 ML models; achieved 98.1% accuracy, 98.8% recall and 98.5% F1-score with XGBoost**. 
+* Analyzed **1,319 patient records using Pandas, NumPy, Matplotlib and Seaborn**; performed **EDA and feature engineering**.
+* Compared **7 ML models; achieved 98.1% accuracy, 98.8% recall and 98.5% F1-score with XGBoost**.
 * Identified **key risk factors (Troponin, CK-MB)** and built a **Gradio interface for patient risk prediction using 3 ML models**.
 
 **Professional Value:** Demonstrates practical integration of **Healthcare Analytics, Machine Learning, ensemble modelling, clinical feature analysis, and Gradio-based application development for cardiovascular risk prediction**.
 
----
+\---
 
-## 🏆 Certifications & Conference Presentations
+## 🏆 Certifications \& Conference Presentations
 
 ### 📜 Professional Certifications
 
@@ -132,7 +132,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * **Machine Learning with Python** - Cognitive Class (IBM) (2023)
 * **Excel for Beginners** - Great Learning (2023)
 
----
+\---
 
 ### 🎤 Conference Paper Presentations
 
@@ -146,9 +146,9 @@ Presented the research paper:
 
 This work focused on the **integration of Natural Language Processing, Image Captioning, and AI-based content generation techniques** within a unified intelligent system.
 
----
+\---
 
-#### 🏅 2nd National Conference on Emerging Trends in Computer Science & Technology (NCETCST 2024)
+#### 🏅 2nd National Conference on Emerging Trends in Computer Science \& Technology (NCETCST 2024)
 
 **Thiruthangal Nadar College | August 30, 2024**
 
@@ -158,49 +158,50 @@ Presented the paper:
 
 The presentation explored **edge computing architectures, distributed processing models, and emerging trends in intelligent computing systems**.
 
----
+\---
 
 ## 🎓 Education
 
 ### **SRM Institute of Science and Technology**
 
-**Master of Science (M.Sc.) – Applied Data Science**
-**CGPA: 9.54 / 10** | **2024 – 2026**
+**Master of Science (M.Sc.) – Applied Data Science
+CGPA: 9.54 / 10** | **2024 – 2026**
 
----
+\---
 
 ### **Sri Ramachandra Faculty of Engineering and Technology**
 
-**Bachelor of Science (B.Sc.) – Data Science**
-**CGPA: 8.05 / 10** | **2020 – 2023**
+**Bachelor of Science (B.Sc.) – Data Science
+CGPA: 8.05 / 10** | **2020 – 2023**
 
----
+\---
 
 ## 🤝 Let’s Connect
 
 I’m actively interested in opportunities related to **Data Analytics, Business Intelligence, Machine Learning, and AI-driven analytical solutions**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\\\\\&logo=linkedin\\\\\\\&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Madhubala69" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Madhubala69" target="\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\\\\\&logo=github\\\\\\\&logoColor=white"/>
   </a>
 
-  <a href="https://madhubala69.github.io/Madhubala.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://madhubala69.github.io/Madhubala.github.io/" target="\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\\\\\\\&logo=google-chrome\\\\\\\&logoColor=white"/>
   </a>
 
-  <a href="mailto:madhu69.vel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:madhu69.vel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\\\\\&logo=gmail\\\\\\\&logoColor=white"/>
   </a>
 </p>
 
----
+\---
 
 <div align="center">
+
 
 
 ⭐️ From **Madhubala69** | **⭐ Data Analytics • AI • Intelligent Solutions**
@@ -208,3 +209,4 @@ I’m actively interested in opportunities related to **Data Analytics, Business
 **📊 Building impactful analytics and AI projects, one insight at a time. 🚀**
 
 </div>
+

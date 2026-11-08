@@ -3,20 +3,20 @@
 **📊 Data Analytics • 📈 Machine Learning • 🤖 AI Applications**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="\\\\\\\_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\\\\\&logo=linkedin\\\\\\\&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="\\\\\\\\\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\\\\\\\\\\\\\&logo=linkedin\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 
-<a href="https://madhubala69.github.io/Madhubala.github.io/" target="\\\\\\\_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\\\\\\\&logo=google-chrome\\\\\\\&logoColor=white"/>
+<a href="https://madhubala69.github.io/Madhubala.github.io/" target="\\\\\\\\\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\\\\\\\\\\\\\\\&logo=google-chrome\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 
 <a href="mailto:madhu02bal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\\\\\&logo=gmail\\\\\\\&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\\\\\\\\\\\\\&logo=gmail\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 </p>
 
-\---
+
 
 ## 👤 About Me
 
@@ -181,20 +181,20 @@ CGPA: 8.05 / 10** | **2020 – 2023**
 I’m actively interested in opportunities related to **Data Analytics, Business Intelligence, Machine Learning, and AI-driven analytical solutions**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="\\\\\\\_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\\\\\&logo=linkedin\\\\\\\&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/v-madhubala-764747286" target="\\\\\\\\\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\\\\\\\\\\\\\&logo=linkedin\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 
-<a href="https://github.com/Madhubala69" target="\\\\\\\_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\\\\\&logo=github\\\\\\\&logoColor=white"/>
+<a href="https://github.com/Madhubala69" target="\\\\\\\\\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\\\\\\\\\\\\\&logo=github\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 
-<a href="https://madhubala69.github.io/Madhubala.github.io/" target="\\\\\\\_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\\\\\\\&logo=google-chrome\\\\\\\&logoColor=white"/>
+<a href="https://madhubala69.github.io/Madhubala.github.io/" target="\\\\\\\\\\\\\\\_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\\\\\\\\\\\\\\\&logo=google-chrome\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 
 <a href="mailto:madhu69.vel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\\\\\&logo=gmail\\\\\\\&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\\\\\\\\\\\\\&logo=gmail\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
 </p>
 

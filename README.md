@@ -27,7 +27,7 @@ Data Analytics and Artificial Intelligence professional with a strong academic f
 * 🤖 Interested in **Machine Learning, Deep Learning and Natural Language Processing**
 * 🩺 Passionate about applying **AI and analytics to healthcare and retail**
 * 📍 Chennai, Tamil Nadu, India
-* 📧 **[madhu69.vel@gmail.com](mailto:madhu69.vel@gmail.com)**
+* 📧 **[madhu69.vel@gmail.com](mailto:madhu02bal@gmail.com)**
 
 ✔ Committed to building **scalable, insight-driven, and user-focused analytical solutions** that create measurable value.
 
